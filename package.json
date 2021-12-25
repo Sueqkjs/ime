@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "format": "prettier -w *.js"
+  },
+  "name": "ime",
+  "version": "1.0.0",
+  "dependencies": {
+    "prettier": "^2.5.1"
+  }
+}
